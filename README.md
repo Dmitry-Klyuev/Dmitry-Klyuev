@@ -16,4 +16,5 @@ email: i6169696@gmail.com
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## **Статистика:**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-kl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-Klyuev)](https://github.com/anuraghazra/github-readme-stats)
