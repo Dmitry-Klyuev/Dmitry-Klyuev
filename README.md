@@ -1,6 +1,5 @@
 # **Всем привет, я Дмитрий**
 
-![Profile views](https://gpvc.arturio.dev/Dmitry-Klyuev)  
 [![codewars](https://www.codewars.com/users/El-dee/badges/micro)](https://www.codewars.com/users/El-dee)
 
 ### **Где меня можно найти:**
